@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            शब्द-आ-वाली
 locale:           en_US
 url:              
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Sumeet Pareek
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "शब्द-आ-वाली gives expressions to that which you know but struggle with."
   email: 
   disqus-shortname: 
-  twitter: #username
+  twitter: smprk
   facebook: #username
   google:
     plus: #username
