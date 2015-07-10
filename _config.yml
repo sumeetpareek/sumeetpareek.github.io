@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            शब्द-आ-वाली
+title:            Sumeet Pareek
 locale:           en_US
 url:              
 
@@ -27,8 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Sumeet Pareek
-  avatar: bio-photo.jpg
-  bio: "शब्द-आ-वाली gives expressions to that which you know but struggle with."
+  avatar: sumeet-pareek-head-shot-grey-2013.jpg
+  bio: "In love with Tech, Films, and Languages. An open mind. A romantic heart. And a silly sense of humor."
   email: 
   disqus-shortname: 
   twitter: smprk
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: sumeetpareek
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
@@ -57,4 +57,4 @@ owner:
   flickr: #username
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]

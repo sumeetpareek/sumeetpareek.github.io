@@ -23,5 +23,3 @@ To modify styling and highlight colors edit `/_sass/_pygments.scss`.
     width: 100%;
 }
 {% endhighlight %}
-
-{% highlight html %}
